@@ -1,0 +1,20 @@
+  .pinkish {
+    background-color: rgb(255, 182, 193);
+    font-family: "veranda", DejaVu Sans, sans-serif;
+}
+
+ #number2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+ 
+ .number3 {
+    font-size: 24px;
+
+ }
+
+ #number4 {
+    background-color: rgb(63, 247, 139);
+    font-size: 24px;
+    font-weight: bold;
+ }
